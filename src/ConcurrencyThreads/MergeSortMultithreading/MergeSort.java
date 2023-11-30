@@ -1,10 +1,9 @@
 //Merge sort using multithreading
 
-package Threads.MergeSortMultithreading;
+package ConcurrencyThreads.MergeSortMultithreading;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Locale;
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

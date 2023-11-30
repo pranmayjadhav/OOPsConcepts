@@ -1,4 +1,4 @@
-package Threads.HelloWorldPrinter;
+package ConcurrencyThreads.HelloWorldPrinter;
 
 public class HelloWorldPrinter implements Runnable{
 

@@ -1,4 +1,4 @@
-package Threads.PrintNumbers;
+package ConcurrencyThreads.PrintNumbers;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

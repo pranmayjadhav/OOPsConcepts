@@ -1,4 +1,4 @@
-package Threads.MergeSortMultithreading;
+package ConcurrencyThreads.MergeSortMultithreading;
 
 import java.util.Arrays;
 import java.util.List;

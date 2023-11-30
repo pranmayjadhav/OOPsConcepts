@@ -1,4 +1,4 @@
-package Threads.PrintNumbers;
+package ConcurrencyThreads.PrintNumbers;
 
 public class PrintNumbers implements Runnable {
     private int number;
